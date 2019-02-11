@@ -15201,3 +15201,15 @@ TypeError: must be str, not int
 [2019-02-10 00:18:12,709][Thread-188:10540][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-10 00:23:13,755][Thread-189:16296][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-11 23:22:00,085][Thread-11:8836][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-12 03:00:41,810][Thread-11:24876][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-12 03:39:06,078][Thread-115:27672][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Willie\Desktop\bbs\blog\views.py", line 417, in style
+    color_demo['header'] = result.group('header')
+AttributeError: 'NoneType' object has no attribute 'group'
