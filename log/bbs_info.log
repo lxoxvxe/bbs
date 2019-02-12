@@ -15201,3 +15201,32 @@ TypeError: must be str, not int
 [2019-02-10 00:18:12,709][Thread-188:10540][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-10 00:23:13,755][Thread-189:16296][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-11 23:22:00,085][Thread-11:8836][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-12 16:32:34,709][Thread-9:8332][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-12 17:59:32,905][Thread-51:17180][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 01:23:20,788][Thread-11:7644][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 01:48:28,813][Thread-42:28408][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Willie\Desktop\bbs\blog\views.py", line 417, in style
+    color_demo['header'] = result.group('header')
+AttributeError: 'NoneType' object has no attribute 'group'
+[2019-02-13 01:48:29,836][Thread-43:26124][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 01:48:43,580][Thread-45:19448][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Willie\Desktop\bbs\blog\views.py", line 417, in style
+    color_demo['header'] = result.group('header')
+AttributeError: 'NoneType' object has no attribute 'group'
+[2019-02-13 02:18:26,743][Thread-8:3432][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 02:36:06,286][Thread-30:4768][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 02:36:56,301][Thread-66:17312][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]

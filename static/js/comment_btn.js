@@ -51,7 +51,11 @@
                         // var page = $start.parent().parent().prev().find("li").last().clone();
                         // $start.parent().parent().prev().find("li").last().remove();
                         // $start.parent().parent().prev().append(comment_li).append(page);
-                        $start.parent().parent().prev().find("li").last().prev().after(comment_li).next().attr("style","margin-bottom:0px");
+                        // if ($("#main_li").find("li").length !== 1){
+                        $start.parent().parent().prev().find("li").last().before(comment_li).prev().attr("style","margin-bottom:0px");
+                        // }else{
+                        //    $("#main_li").append(comment_li);
+                        // };
 
                         window.scrollTo(0,document.body.scrollHeight);
                     };

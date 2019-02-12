@@ -14722,3 +14722,25 @@ Traceback (most recent call last):
   File "C:\Users\Willie\Desktop\bbs\blog\utils\tools.py", line 87, in page_html
     html_str_list.append('<button>'+self.total_page+'</button>')
 TypeError: must be str, not int
+[2019-02-13 01:48:28,813][Thread-42:28408][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Willie\Desktop\bbs\blog\views.py", line 417, in style
+    color_demo['header'] = result.group('header')
+AttributeError: 'NoneType' object has no attribute 'group'
+[2019-02-13 01:48:43,580][Thread-45:19448][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+Traceback (most recent call last):
+  File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Python36\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Willie\Desktop\bbs\blog\views.py", line 417, in style
+    color_demo['header'] = result.group('header')
+AttributeError: 'NoneType' object has no attribute 'group'
