@@ -15203,6 +15203,10 @@ TypeError: must be str, not int
 [2019-02-11 23:22:00,085][Thread-11:8836][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-12 03:00:41,810][Thread-11:24876][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
 [2019-02-12 03:39:06,078][Thread-115:27672][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
+[2019-02-12 16:32:34,709][Thread-9:8332][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-12 17:59:32,905][Thread-51:17180][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 01:23:20,788][Thread-11:7644][task_id:django.request][base.py:152][WARNING][Not Found: /favicon.ico]
+[2019-02-13 01:48:28,813][Thread-42:28408][task_id:django.request][exception.py:135][ERROR][Internal Server Error: /blog/backend/style/]
 Traceback (most recent call last):
   File "C:\Python36\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
     response = get_response(request)

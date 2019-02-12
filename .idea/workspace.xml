@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c128b9c-b5f9-4628-bdf5-3e1452ffe78c" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/log/bbs_err.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bbs_err.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/bbs_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bbs_info.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/theme/dreamerss.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/theme/dreamerss.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/theme/star.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/theme/star.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/theme/williechen.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/theme/williechen.css" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/bbs_err.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bbs_err.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/bbs_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bbs_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/comment_btn.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/comment_btn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/theme/star.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/theme/star.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+>>>>>>> dev
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,13 +54,17 @@
       <file leaf-file-name="mystyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3888">
+            <state relative-caret-position="36">
               <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="amy.css" pinned="false" current-in-tab="true">
+=======
+      <file leaf-file-name="amy.css" pinned="false" current-in-tab="false">
+>>>>>>> dev
         <entry file="file://$PROJECT_DIR$/static/theme/amy.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -104,18 +117,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment_btn.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="comment_btn.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/js/comment_btn.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1872">
-              <caret line="53" column="137" selection-start-line="53" selection-start-column="137" selection-end-line="53" selection-end-column="137" />
+            <state relative-caret-position="252">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="e#149#155#0" expanded="true" />
+                <element signature="e#155#161#0" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#li#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="star.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/theme/star.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="86" selection-start-column="86" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4249">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#1;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#304#310#0" expanded="true" />
+                <element signature="e#310#316#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> dev
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -175,17 +223,21 @@
         <option value="$PROJECT_DIR$/blog/models.py" />
         <option value="$PROJECT_DIR$/templates/add_article.html" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/article_detail.html" />
         <option value="$PROJECT_DIR$/blog/utils/tools.py" />
-        <option value="$PROJECT_DIR$/static/js/comment_btn.js" />
         <option value="$PROJECT_DIR$/static/mystyle.css" />
         <option value="$PROJECT_DIR$/static/theme/amy.css" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/templates/login2.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/static/theme/dreamerss.css" />
         <option value="$PROJECT_DIR$/static/theme/star.css" />
         <option value="$PROJECT_DIR$/static/theme/williechen.css" />
+=======
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/theme/star.css" />
+        <option value="$PROJECT_DIR$/static/js/comment_btn.js" />
+>>>>>>> dev
       </list>
     </option>
   </component>
@@ -520,15 +572,31 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5009074" side_tool="true" weight="0.22006473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39927405" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39927405" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.10590015" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49909255" visible="true" weight="0.22995462" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32849365" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89334345" visible="true" weight="0.3142415" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="manage.py@bbs" order="14" weight="0.32972136" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.10665658" side_tool="true" weight="0.09287926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5009074" side_tool="true" weight="0.22006473" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.16696915" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48452014" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32817337" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,6 +611,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/日志示例.py" />
+    <entry file="file://$PROJECT_DIR$/正则表达式路由测试.py" />
+>>>>>>> dev
     <entry file="file://$PROJECT_DIR$/求随机数的实例.py" />
     <entry file="file://$PROJECT_DIR$/blog/admin.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -691,18 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4608">
-          <caret line="128" column="60" selection-start-line="128" selection-start-column="60" selection-end-line="128" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#1;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3924">
@@ -724,16 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/comment_btn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="53" column="137" selection-start-line="53" selection-start-column="137" selection-end-line="53" selection-end-column="137" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/article_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8136">
@@ -743,13 +794,6 @@
             <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
             <element signature="e#2264#2271#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/mystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3888">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -773,7 +817,11 @@
     <entry file="file://$PROJECT_DIR$/static/theme/williechen.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+<<<<<<< HEAD
           <caret column="86" selection-start-column="86" selection-end-column="86" />
+=======
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+>>>>>>> dev
         </state>
       </provider>
     </entry>
@@ -795,6 +843,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4249">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#304#310#0" expanded="true" />
+            <element signature="e#310#316#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/theme/star.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="86" selection-start-column="86" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/comment_btn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#1;n#div#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="e#149#155#0" expanded="true" />
+            <element signature="e#155#161#0" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#li#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
